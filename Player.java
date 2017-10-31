@@ -1,4 +1,4 @@
-public class PlayerOne {
+public class Player {
     private String player1name;
     private int Brains;
     public void enterName (String PlayerOne)
